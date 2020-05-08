@@ -39,6 +39,8 @@ Transmitter เป็นตัวส่งข้อมูลโดยใช้�
 
 # howabout-today
 
+Link Youtube: https://www.youtube.com/watch?v=rWjcxBk0uIw&fbclid=IwAR1g5hAVuq3_I8zYc8Z2tPXgNf2YN4YXQBLNrhe3ywLT1mVb-Ad-QQNotMM
+
 ## Project setup
 ```
 npm install
